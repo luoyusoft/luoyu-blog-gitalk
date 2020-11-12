@@ -1,7 +1,12 @@
 ## 说明
 ```
-本仓库仅作为落雨个人博客的留言功能使用。
+个人博客的评论功能使用。
 ```
 
-## 博客在线地址
-[https://luoyublog.com](https://luoyublog.com)
+## 参考教程
+|序号|文章标题|
+|:---:|:---|
+|01|[IDEA2020年最新全家桶通用激活码分享（持续更新）](https://luoyublog.com/article/37)|
+
+## 关于作者
+【<b>个人博客</b>】    【<b><a href="https://luoyublog.com"> https://luoyublog.com </a></b>】<br/>
